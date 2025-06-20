@@ -1,0 +1,5 @@
+baseURL = 'https://makvit9.github.io'
+languageCode = 'en-us'
+title = 'Makvit 9'
+theme = 'hugo-coder'
+params.author = 'Majed Alhadeed'
